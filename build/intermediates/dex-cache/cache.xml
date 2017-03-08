@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Demo\WHAFRecyclerView\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="D:\Demo\WHAFRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_e96cb9d48c0f731468e06f988551c124275afcc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\WHAFRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\Demo\WHAFRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_d4f6c4e86fd46cc449254a3a11375b4d07e9fc0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\WHAFRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\Demo\WHAFRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_aa43eedd07ac61a348a73c5ef7eb095d22032656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\WHAFRecyclerView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\Demo\WHAFRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_34cd13312f2625711ba6e83a806a35923789d92d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\WHAFRecyclerView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="D:\Demo\WHAFRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_2f01815fe88f4c893891dbf0892c38c108824b68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuechenmeng\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\Demo\WHAFRecyclerView\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_5900b9d0223e7d9d1626497216ea6e4505332541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\WHAFRecyclerView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\Demo\WHAFRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_af87c1b20a3cda1af4cba178dfcc2c7125aa531f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\WHAFRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\Demo\WHAFRecyclerView\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_a4ff9e07b97e3267860657f52c35ebc68dd85f7f.jar" />
+    </item>
+
+</items>
